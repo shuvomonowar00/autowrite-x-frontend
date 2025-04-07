@@ -236,7 +236,7 @@ function ClientRegister() {
 
   return (
     <>
-      <div className="min-h-screen bg-gray-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8 bg-hero-texture">
+      <div className="min-h-screen bg-gray-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8 custom-scrollbar">
         <div className="fixed top-0 left-0 right-0 z-50">
           {/* Glass morphism effect header */}
           <div className="backdrop-blur-md bg-white/80 shadow-sm border-b border-gray-200">
